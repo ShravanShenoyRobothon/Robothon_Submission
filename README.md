@@ -3,22 +3,22 @@
 This is the submission from Team IISc, Bangalore to Robothon Challenge 2023. 
 
 Hardware:
-UR5 Manipulator Arm
-AG-95 Gripper 
+UR5 Manipulator Arm,
+AG-95 Gripper,
 Intel RealSense d435i Depth Camera
 
 Software:
-ROS Noetic
-Pyrealsense
-MoveIt
-OpenCV
-OpenCV Aruco
-Pytorch and Torchvision
-CUDA Toolkit
-YOLOv7 Utility files - https://github.com/WongKinYiu/yolov7
-Rospy
-Roslib
-Pyttsx3
+ROS Noetic,
+Pyrealsense,
+MoveIt,
+OpenCV,
+OpenCV Aruco,
+Pytorch and Torchvision,
+CUDA Toolkit,
+YOLOv7 Utility files - https://github.com/WongKinYiu/yolov7,
+Rospy,
+Roslib,
+Pyttsx3x
 
 
 Quickstart Section:
